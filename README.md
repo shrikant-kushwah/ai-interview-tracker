@@ -4,9 +4,9 @@ Interview Tracker is a full stack SaaS style project built to manage the job sea
 
 ## Live Demo
 
-Frontend: https://ai-intreview-tracker.vercel.app
+Frontend: https://ai-interview-tracker-nine.vercel.app
 
-Backend: https://ai-intreview-tracker.onrender.com
+Backend: https://ai-interview-tracker.onrender.com
 
 ## What the app does
 
@@ -85,7 +85,7 @@ interview-tracker/
 ### 1. Clone the project
 
 ```bash
-git clone https://github.com/codeasj/interview-tracker.git
+git clone https://github.com/shrikant-kushwah/ai-interview-tracker.git
 cd interview-tracker
 ```
 
